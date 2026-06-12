@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,50:6A0DAD,100:7F00FF&text=Mubasher%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Off%20Page%20SEO%20%7C%20Web%20Developer&descAlignY=58" width="100%"/>
@@ -237,3 +238,312 @@ Exploring AI technologies, browser automation, workflow systems, and productivit
 `AI` `Automation` `Python` `Chrome Extensions` `n8n`
 
 ---
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|------------|---------|
+| SEO Growth | Successfully contributed to improving website authority and search visibility through strategic link-building campaigns. |
+| Web Development | Built and optimized WordPress websites focused on performance and user experience. |
+| Technical SEO | Implemented SEO strategies resulting in improved indexing and organic traffic growth. |
+| Automation | Exploring AI-driven workflows and automation systems for scalable digital operations. |
+| Continuous Learning | Actively learning modern technologies in AI, web engineering, and automation. |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+<p align="center">
+
+![](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</p>
+
+## Oracle
+
+<p align="center">
+
+![](https://img.shields.io/badge/Oracle-Java_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/Oracle-Database_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</p>
+
+## NPTEL
+
+<p align="center">
+
+![](https://img.shields.io/badge/NPTEL-Programming_in_Python-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/NPTEL-Data_Structures-6D28D9?style=for-the-badge)
+
+</p>
+
+## Cisco
+
+<p align="center">
+
+![](https://img.shields.io/badge/Cisco-Networking-EA4335?style=for-the-badge&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/Cisco-Cybersecurity-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white)
+
+</p>
+
+> Replace badges with your actual certifications when available.
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_GFG_URL">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="YOUR_HACKERRANK_URL">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="YOUR_CODECHEF_URL">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubasherdevv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mubasherdevv&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubasherdevv&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mubasherdevv&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mubasherdevv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=C084FC"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+
+<img src="https://raw.githubusercontent.com/AsimMuneersahib/AsimMuneersahib/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Artificial Intelligence
+  - Automation Systems
+  - Modern Web Technologies
+  - Advanced SEO Engineering
+
+Building:
+  - SEO Automation Tools
+  - Chrome Extensions
+  - WordPress Solutions
+  - AI Workflows
+
+Exploring:
+  - n8n Automation
+  - Open Source Projects
+  - AI Agents
+  - Developer Tools
+
+Open To:
+  - Remote Opportunities
+  - Freelance Projects
+  - Collaborations
+  - Open Source Contributions
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:withm345@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-withm345%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mubasher-developer-98a5ab37a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mubasher_Developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/mubasherdevv">
+  <img src="https://img.shields.io/badge/GitHub-mubasherdevv-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# Development Philosophy
+
+<div align="center">
+
+> *"Engineering scalable digital solutions through SEO, automation, and modern web technologies."*
+
+</div>
+
+---
+
+# Tech Principles
+
+<div align="center">
+
+| Principle | Focus |
+|-----------|-------|
+| Performance First | Build fast, optimized experiences |
+| Scalability | Design systems for growth |
+| Automation | Eliminate repetitive workflows |
+| SEO Engineering | Data-driven search optimization |
+| Continuous Learning | Adapt to emerging technologies |
+| Open Source | Contribute and collaborate |
+
+</div>
+
+---
+
+# Daily Workflow
+
+<div align="center">
+
+```text
+Research → Strategy → Development → Optimization → Automation → Growth
+````
+
+</div>
+
+---
+
+# Professional Interests
+
+<div align="center">
+
+`Artificial Intelligence`
+`Automation`
+`SEO Engineering`
+`WordPress`
+`Web Development`
+`Open Source`
+`Chrome Extensions`
+`n8n`
+`Developer Tools`
+`Productivity Systems`
+
+</div>
+
+---
+
+# GitHub Profile Highlights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubasherdevv&theme=tokyonight" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mubasherdevv&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mubasherdevv&theme=tokyonight" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mubasherdevv&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mubasherdevv&theme=tokyonight&utcOffset=5" width="48%" />
+
+</div>
+
+---
+
+# Open To Collaborate
+
+<div align="center">
+
+| Area                   | Availability |
+| ---------------------- | ------------ |
+| Link Building Projects | ✅ Open       |
+| WordPress Development  | ✅ Open       |
+| SEO Consulting         | ✅ Open       |
+| AI Automation          | ✅ Open       |
+| Open Source            | ✅ Open       |
+| Remote Opportunities   | ✅ Open       |
+
+</div>
+
+---
+
+# Profile Roadmap
+
+```yaml
+2026 Goals:
+  - Build advanced SEO automation tools
+  - Launch production-ready Chrome extensions
+  - Expand AI workflow expertise
+  - Contribute more to open source
+  - Strengthen full-stack engineering skills
+  - Create scalable SaaS products
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4B0082,50:6A0DAD,100:7F00FF" width="100%" />
+
+### Mubasher Developer
+
+**Off Page SEO • Web Developer • Automation Enthusiast**
+
+<sub>Building digital growth through engineering, automation, and innovation.</sub>
+
+</div>
+```
