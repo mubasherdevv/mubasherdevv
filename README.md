@@ -118,41 +118,7 @@ As technology evolves, I continue exploring **Artificial Intelligence**, **autom
 
 ---
 
-````md
----
 
-# Experience Journey
-
-<div align="center">
-
-```text
-                        ┌──────────────────────────────┐
-                        │   Mubasher Developer 🚀      │
-                        │ SEO • Web • Automation • AI │
-                        └─────────────┬────────────────┘
-                                      │
-         ┌────────────────────────────┼────────────────────────────┐
-         │                            │                            │
-         ▼                            ▼                            ▼
-
-┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
-│  🔗 SEO Expert  │        │ 💻 Developer    │        │ 🤖 AI Explorer  │
-├─────────────────┤        ├─────────────────┤        ├─────────────────┤
-│ • Link Building │        │ • WordPress     │        │ • n8n Workflows │
-│ • Guest Posts   │        │ • Web Apps      │        │ • AI Tools      │
-│ • Outreach      │        │ • SEO Websites  │        │ • Automation    │
-│ • Authority SEO │        │ • Optimization  │        │ • Extensions    │
-└────────┬────────┘        └────────┬────────┘        └────────┬────────┘
-         │                          │                          │
-         └──────────────┬───────────┴──────────────┬──────────┘
-                        │                          │
-                        ▼                          ▼
-
-             ┌─────────────────────────────────────────┐
-             │        Building Digital Growth          │
-             │    Through Engineering & Automation     │
-             └─────────────────────────────────────────┘
-````
 
 </div>
 
