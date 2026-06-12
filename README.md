@@ -74,28 +74,32 @@ As technology evolves, I continue exploring **Artificial Intelligence**, **autom
 
 ---
 
+
+---
+
 # Education
 
-<div align="center">
+### 🎓 Diploma Associate Engineer (CIT)
 
-| Degree | Institution | Duration | Status |
-|--------|------------|----------|--------|
-| Matric | Govt Farooqi  Islamia Boys High School ( Computer Science ) | 2019-2022 | Completed |
-| Diploma Associate Enginner 3 Years (Computer Information Technology ) | Malaysian Institute of Technology |2022 - 2025 | Completed |
+**Malaysian Institute of Technology**  
+📅 **2022 – 2025**  
+✅ **Completed**
 
+Specialized in Computer Information Technology with focus on software engineering, web technologies, and modern development practices.
 
-</div>
+---
 
-<br/>
+### 🎓 Matric (Computer Science)
 
-<div align="center">
+**Govt. Farooqi Islamia Boys High School**  
+📅 **2019 – 2022**  
+✅ **Completed**
 
-![](https://img.shields.io/badge/Focus-Software_Engineering-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Interest-Artificial_Intelligence-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Specialization-Web_Development-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Domain-SEO_Engineering-4F46E5?style=for-the-badge)
+Built a strong foundation in computer science fundamentals and problem-solving.
 
-</div>
+---
+
+```
 
 ---
 ```
