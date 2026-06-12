@@ -43,7 +43,14 @@
 </div>
 
 ---
+# Contribution Snake
 
+
+<img src="https://raw.githubusercontent.com/AsimMuneersahib/AsimMuneersahib/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
 # About Me
 
 I am **Mubasher Developer**, an **Off Page SEO Specialist** and **Web Developer** focused on building scalable digital solutions and growth-driven web strategies.
@@ -257,45 +264,7 @@ Exploring AI technologies, browser automation, workflow systems, and productivit
 
 ---
 
-# Certifications
 
-## AWS
-
-<p align="center">
-
-![](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</p>
-
-## Oracle
-
-<p align="center">
-
-![](https://img.shields.io/badge/Oracle-Java_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/Oracle-Database_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</p>
-
-## NPTEL
-
-<p align="center">
-
-![](https://img.shields.io/badge/NPTEL-Programming_in_Python-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/NPTEL-Data_Structures-6D28D9?style=for-the-badge)
-
-</p>
-
-## Cisco
-
-<p align="center">
-
-![](https://img.shields.io/badge/Cisco-Networking-EA4335?style=for-the-badge&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/Cisco-Cybersecurity-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white)
-
-</p>
-
-> Replace badges with your actual certifications when available.
 
 ---
 
@@ -343,15 +312,9 @@ Exploring AI technologies, browser automation, workflow systems, and productivit
 
 ---
 
-# GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mubasherdevv&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
 
-</div>
-
----
 
 # Contribution Activity
 
@@ -363,14 +326,7 @@ Exploring AI technologies, browser automation, workflow systems, and productivit
 
 ---
 
-# Contribution Snake
 
-
-<img src="https://raw.githubusercontent.com/AsimMuneersahib/AsimMuneersahib/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # Current Focus
 
