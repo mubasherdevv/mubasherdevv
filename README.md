@@ -72,37 +72,23 @@ As technology evolves, I continue exploring **Artificial Intelligence**, **autom
 
 ---
 
----
-
 
 ---
 
 # Education
 
-### 🎓 Diploma Associate Engineer (CIT)
+<div align="center">
 
-**Malaysian Institute of Technology**  
-📅 **2022 – 2025**  
-✅ **Completed**
+| 🎓 Degree | 🏫 Institution | 📅 Duration | ✅ Status |
+|:---------|:--------------|:-----------:|:---------:|
+| **Matric (Computer Science)** | Govt. Farooqi Islamia Boys High School | **2019 – 2022** | ✅ Completed |
+| **DAE – Computer Information Technology** | Malaysian Institute of Technology | **2022 – 2025** | ✅ Completed |
 
-Specialized in Computer Information Technology with focus on software engineering, web technologies, and modern development practices.
-
----
-
-### 🎓 Matric (Computer Science)
-
-**Govt. Farooqi Islamia Boys High School**  
-📅 **2019 – 2022**  
-✅ **Completed**
-
-Built a strong foundation in computer science fundamentals and problem-solving.
+</div>
 
 ---
-
-```
-
 ---
-```
+
 
 # Tech Stack
 
