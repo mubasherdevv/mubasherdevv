@@ -205,7 +205,7 @@ Driving search visibility and authority growth through advanced off-page SEO str
 
 ---
 
-## Web Developer — Freelance
+## Web Developer 
 
 **Date:** 2021 – Present
 
@@ -264,33 +264,28 @@ Exploring AI technologies, browser automation, workflow systems, and productivit
 
 ---
 
-
-
----
-
-# Coding Profiles
+# GitHub Profile Highlights
 
 <div align="center">
 
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubasherdevv&theme=tokyonight" width="100%" />
 
-<a href="YOUR_GFG_URL">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="YOUR_HACKERRANK_URL">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mubasherdevv&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mubasherdevv&theme=tokyonight" width="48%" />
 
-<a href="YOUR_CODECHEF_URL">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mubasherdevv&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mubasherdevv&theme=tokyonight&utcOffset=5" width="48%" />
 
 </div>
 
 ---
+
+
+
 
 # GitHub Analytics
 
@@ -440,25 +435,6 @@ Research → Strategy → Development → Optimization → Automation → Growth
 
 ---
 
-# GitHub Profile Highlights
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubasherdevv&theme=tokyonight" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mubasherdevv&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mubasherdevv&theme=tokyonight" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mubasherdevv&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mubasherdevv&theme=tokyonight&utcOffset=5" width="48%" />
-
-</div>
-
----
 
 # Open To Collaborate
 
