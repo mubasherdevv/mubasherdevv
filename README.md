@@ -118,16 +118,119 @@ As technology evolves, I continue exploring **Artificial Intelligence**, **autom
 
 ---
 
-# AI / ML Expertise
+````md
+---
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| AI Tools | Intermediate | Practical use of AI tools for productivity and automation |
-| Prompt Engineering | Intermediate | Designing prompts for workflows and content generation |
-| SEO Automation | Advanced | Automated SEO operations and scaling strategies |
-| Data Analysis | Intermediate | Keyword research and performance tracking |
-| Web Automation | Intermediate | Browser automation and workflow optimization |
-| AI Integration | Learning | Integrating AI into web products and services |
+# Experience Journey
+
+<div align="center">
+
+```text
+                        ┌──────────────────────────────┐
+                        │   Mubasher Developer 🚀      │
+                        │ SEO • Web • Automation • AI │
+                        └─────────────┬────────────────┘
+                                      │
+         ┌────────────────────────────┼────────────────────────────┐
+         │                            │                            │
+         ▼                            ▼                            ▼
+
+┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
+│  🔗 SEO Expert  │        │ 💻 Developer    │        │ 🤖 AI Explorer  │
+├─────────────────┤        ├─────────────────┤        ├─────────────────┤
+│ • Link Building │        │ • WordPress     │        │ • n8n Workflows │
+│ • Guest Posts   │        │ • Web Apps      │        │ • AI Tools      │
+│ • Outreach      │        │ • SEO Websites  │        │ • Automation    │
+│ • Authority SEO │        │ • Optimization  │        │ • Extensions    │
+└────────┬────────┘        └────────┬────────┘        └────────┬────────┘
+         │                          │                          │
+         └──────────────┬───────────┴──────────────┬──────────┘
+                        │                          │
+                        ▼                          ▼
+
+             ┌─────────────────────────────────────────┐
+             │        Building Digital Growth          │
+             │    Through Engineering & Automation     │
+             └─────────────────────────────────────────┘
+````
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/SEO-Advanced-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/WordPress-Developer-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Automation-Building-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/AI-Explorer-4F46E5?style=for-the-badge)
+
+</div>
+
+---
+
+
+
+# Experience Journey
+
+<div align="center">
+
+```text
+                        ┌──────────────────────────────┐
+                        │   Mubasher Developer 🚀      │
+                        │ SEO • Web • Automation • AI │
+                        └─────────────┬────────────────┘
+                                      │
+         ┌────────────────────────────┼────────────────────────────┐
+         │                            │                            │
+         ▼                            ▼                            ▼
+
+┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
+│  🔗 SEO Expert  │        │ 💻 Developer    │        │ 🤖 AI Explorer  │
+├─────────────────┤        ├─────────────────┤        ├─────────────────┤
+│ • Link Building │        │ • WordPress     │        │ • n8n Workflows │
+│ • Guest Posts   │        │ • Web Apps      │        │ • AI Tools      │
+│ • Outreach      │        │ • SEO Websites  │        │ • Automation    │
+│ • Authority SEO │        │ • Optimization  │        │ • Extensions    │
+└────────┬────────┘        └────────┬────────┘        └────────┬────────┘
+         │                          │                          │
+         └──────────────┬───────────┴──────────────┬──────────┘
+                        │                          │
+                        ▼                          ▼
+
+             ┌─────────────────────────────────────────┐
+             │        Building Digital Growth          │
+             │    Through Engineering & Automation     │
+             └─────────────────────────────────────────┘
+````
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/SEO-Advanced-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/WordPress-Developer-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Automation-Building-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/AI-Explorer-4F46E5?style=for-the-badge)
+
+</div>
+
+---
+
+## Career Timeline
+
+|    Year   | Milestone                                            |
+| :-------: | ---------------------------------------------------- |
+|  **2021** | Started journey in **Off Page SEO & Link Building**  |
+|  **2022** | Expanded into **WordPress Development**              |
+|  **2023** | Worked on **SEO campaigns and website optimization** |
+|  **2024** | Began exploring **Automation & AI workflows**        |
+| **2025+** | Building scalable **AI-powered SEO solutions**       |
+
+---
+
 
 ---
 
