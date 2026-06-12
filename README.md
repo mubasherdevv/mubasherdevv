@@ -7,7 +7,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/Software_Engineering-Professional-6D28D9?style=for-the-badge)
+
 ![](https://img.shields.io/badge/Open_Source-Contributor-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/AI_Enthusiast-Learning-8B5CF6?style=for-the-badge)
 ![](https://img.shields.io/badge/Remote-Available-4F46E5?style=for-the-badge)
