@@ -46,9 +46,9 @@
 # Contribution Snake
 
 
-<img src="https://raw.githubusercontent.com/AsimMuneersahib/AsimMuneersahib/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mubasherdevv/mubasherdevv/output/github-snake.svg" alt="snake" />
+</p>
 
 ---
 # About Me
