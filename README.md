@@ -47,7 +47,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mubasherdevv/mubasherdevv/output/github-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/mubasherdevv/mubasherdevv/output/github-snake.svg" />
 </p>
 
 ---
