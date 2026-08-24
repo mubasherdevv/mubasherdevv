@@ -53,7 +53,7 @@
 ---
 # About Me
 
-I am **Mubasher Developer**, an **Off Page SEO Specialist** and **Web Developer** focused on building scalable digital solutions and growth-driven web strategies.
+I am **Mubasher Developer**, an **Off Page SEO ** and **Web Developer** focused on building scalable digital solutions and growth-driven web strategies.
 
 My expertise lies at the intersection of **SEO engineering**, **WordPress development**, **link acquisition**, and **web technologies**, enabling businesses to improve visibility, authority, and performance across search engines.
 
