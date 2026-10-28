@@ -88,8 +88,7 @@ Off-Page SEO Specialist and Web Developer who combines SEO, WordPress developmen
     </td>
   </tr>
 </table>
-## GitHub Profile Highlights
-
+<br>
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubasherdevv&theme=tokyonight" width="100%" />
