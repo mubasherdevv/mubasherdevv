@@ -1,357 +1,68 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,50:6A0DAD,100:7F00FF&text=Mubasher%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Off%20Page%20SEO%20%7C%20Web%20Developer&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4B0082,50:6A0DAD,100:7F00FF&text=Mubasher%20Developer&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Off-Page%20SEO%20%7C%20Web%20Developer&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Off+Page+SEO+Specialist;Web+Developer;WordPress+Expert;Link+Building+Strategist;Building+Digital+Growth+Through+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Off-Page+SEO+Specialist;Web+Developer;Link+Building+Strategist;Building+Digital+Growth+Through+Engineering" alt="Typing SVG" />
 
 <br/>
 
+![Location](https://img.shields.io/badge/Lahore,_Pakistan-4338CA?style=flat-square)
+![Focus](https://img.shields.io/badge/SEO_Engineering-6D28D9?style=flat-square)
+![Remote](https://img.shields.io/badge/Open_to_Remote-4F46E5?style=flat-square)
 
-![](https://img.shields.io/badge/Open_Source-Contributor-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/AI_Enthusiast-Learning-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Remote-Available-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Location-Lahore,_Pakistan-4338CA?style=flat-square)
-![](https://img.shields.io/badge/Focus-SEO_Engineering-6D28D9?style=flat-square)
-![](https://img.shields.io/badge/Experience-Link_Building-7C3AED?style=flat-square)
-
-<br/><br/>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mubasher-developer-98a5ab37a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mubasherdevv">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=mubasherdevv&style=for-the-badge&color=6D28D9)
-![](https://img.shields.io/github/followers/mubasherdevv?style=for-the-badge&color=7C3AED&label=Followers)
-![](https://img.shields.io/github/stars/mubasherdevv?style=for-the-badge&color=8B5CF6&label=Stars)
-
-</div>
-
----
-# Contribution Snake
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mubasherdevv/mubasherdevv/output/github-snake-dark.svg" />
-</p>
-
----
-# About Me
-
-I am **Mubasher Developer**, an **Off Page SEO ** and **Web Developer** focused on building scalable digital solutions and growth-driven web strategies.
-
-My expertise lies at the intersection of **SEO engineering**, **WordPress development**, **link acquisition**, and **web technologies**, enabling businesses to improve visibility, authority, and performance across search engines.
-
-I enjoy solving technical problems, automating workflows, improving website performance, and implementing data-driven SEO strategies that create measurable business impact.
-
-As technology evolves, I continue exploring **Artificial Intelligence**, **automation systems**, and **modern development practices** to expand my engineering capabilities.
-
-### Open To
-
-- SEO Collaborations
-- WordPress Development Projects
-- Link Building Campaigns
-- Open Source Contributions
-- Remote Opportunities
-- AI & Automation Projects
-
----
-
-
----
-
-# Education
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institution | 📅 Duration | ✅ Status |
-|:---------|:--------------|:-----------:|:---------:|
-| **Matric (Computer Science)** | Govt. Farooqi Islamia Boys High School | **2019 – 2022** | ✅ Completed |
-| **DAE – Computer Information Technology** | Malaysian Institute of Technology | **2022 – 2025** | ✅ Completed |
-
-</div>
-
----
----
-
-
-# Tech Stack
-
-## Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,bash" />
-</p>
-
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
-</p>
-
-## Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb,firebase" />
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,wordpress" />
-</p>
-
----
-
-
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/SEO-Advanced-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/WordPress-Developer-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Automation-Building-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/AI-Explorer-4F46E5?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=mubasherdevv&style=flat-square&color=6D28D9)
+![Followers](https://img.shields.io/github/followers/mubasherdevv?style=flat-square&color=7C3AED&label=Followers)
+![Stars](https://img.shields.io/github/stars/mubasherdevv?style=flat-square&color=8B5CF6&label=Stars)
 
 </div>
 
 ---
 
+## About
 
+Off-Page SEO Specialist aur Web Developer, jo SEO, WordPress development aur automation ko combine karke businesses ki search visibility, authority aur performance improve karta hai. Filhal AI workflows aur SEO automation tools par kaam kar raha hoon.
 
-# Experience Journey
+## What I Do
 
-<div align="center">
+- **Off-Page SEO:** link building, guest posting, niche edits, outreach, competitor backlink analysis
+- **Web Development:** WordPress, custom landing pages, performance optimization
+- **Automation:** n8n workflows, Chrome extensions, SEO automation tools
 
-```text
-                        ┌──────────────────────────────┐
-                        │   Mubasher Developer 🚀      │
-                        │ SEO • Web • Automation • AI │
-                        └─────────────┬────────────────┘
-                                      │
-         ┌────────────────────────────┼────────────────────────────┐
-         │                            │                            │
-         ▼                            ▼                            ▼
+## Tech Stack
 
-┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
-│  🔗 SEO Expert  │        │ 💻 Developer    │        │ 🤖 AI Explorer  │
-├─────────────────┤        ├─────────────────┤        ├─────────────────┤
-│ • Link Building │        │ • WordPress     │        │ • n8n Workflows │
-│ • Guest Posts   │        │ • Web Apps      │        │ • AI Tools      │
-│ • Outreach      │        │ • SEO Websites  │        │ • Automation    │
-│ • Authority SEO │        │ • Optimization  │        │ • Extensions    │
-└────────┬────────┘        └────────┬────────┘        └────────┬────────┘
-         │                          │                          │
-         └──────────────┬───────────┴──────────────┬──────────┘
-                        │                          │
-                        ▼                          ▼
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-             ┌─────────────────────────────────────────┐
-             │        Building Digital Growth          │
-             │    Through Engineering & Automation     │
-             └─────────────────────────────────────────┘
-````
+**SEO Tools:** Ahrefs, SEMrush
 
-</div>
+## Experience
 
-<br/>
+| Role | Period |
+|:--|:--:|
+| Off-Page SEO Specialist (Freelance) | 2021 – Present |
+| Web Developer | 2021 – Present |
 
-<div align="center">
+## Education
 
-![](https://img.shields.io/badge/SEO-Advanced-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/WordPress-Developer-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Automation-Building-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/AI-Explorer-4F46E5?style=for-the-badge)
+- **DAE, Computer Information Technology**, Malaysian Institute of Technology (2022 – 2025)
 
-</div>
+## Current Focus
+
+- Building SEO automation tools aur Chrome extensions
+- Exploring n8n automation aur AI agents
+- Learning advanced SEO engineering aur modern web technologies
 
 ---
 
-## Career Timeline
-
-|    Year   | Milestone                                            |
-| :-------: | ---------------------------------------------------- |
-|  **2021** | Started journey in **Off Page SEO & Link Building**  |
-|  **2022** | Expanded into **WordPress Development**              |
-|  **2023** | Worked on **SEO campaigns and website optimization** |
-|  **2024** | Began exploring **Automation & AI workflows**        |
-| **2025+** | Building scalable **AI-powered SEO solutions**       |
-
----
-
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>Project 01 — YOUR PROJECT NAME</b></summary>
-
-### Project Description
-
-Add your professional project description here.
-
-| Category | Details |
-|----------|---------|
-| Stack | React, Node.js, MongoDB |
-| Scale | Enterprise Ready |
-| Performance | Optimized |
-| Security | Industry Standards |
-| Impact | High Business Value |
-| Repository | Add Repository URL |
-
-This project demonstrates engineering excellence, scalability, and production-ready implementation with a strong focus on maintainability and user experience.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>Project 02 — YOUR PROJECT NAME</b></summary>
-
-### Project Description
-
-Add your professional project description here.
-
-| Category | Details |
-|----------|---------|
-| Stack | WordPress, PHP, MySQL |
-| Scale | Large Scale |
-| Performance | High Performance |
-| Security | Secure Architecture |
-| Impact | SEO Growth |
-| Repository | Add Repository URL |
-
-This project showcases modern web engineering practices and measurable business outcomes.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>Project 03 — YOUR PROJECT NAME</b></summary>
-
-### Project Description
-
-Add your professional project description here.
-
-| Category | Details |
-|----------|---------|
-| Stack | Custom Technology Stack |
-| Scale | Production Grade |
-| Performance | Optimized |
-| Security | Best Practices |
-| Impact | Business Growth |
-| Repository | Add Repository URL |
-
-A production-ready solution engineered for scalability, performance, and long-term maintainability.
-
-</details>
-
----
-
-# Experience
-
-## Off Page SEO Specialist — Freelance
-
-**Date:** 2021 – Present
-
-Driving search visibility and authority growth through advanced off-page SEO strategies and scalable outreach campaigns.
-
-### Scope of Work
-
-- High authority link acquisition
-- Guest posting campaigns
-- Niche edits and outreach
-- Competitor backlink analysis
-- SEO audits and optimization
-- Search visibility improvement
-- Website authority growth
-
-**Skills:**
-
-`SEO` `Link Building` `Guest Posting` `Outreach` `Content Marketing` `Ahrefs` `SEMrush`
-
----
-
-## Web Developer 
-
-**Date:** 2021 – Present
-
-Developing modern websites and digital experiences focused on usability, speed, and conversion optimization.
-
-### Scope of Work
-
-- WordPress website development
-- Custom landing pages
-- Performance optimization
-- UI/UX improvements
-- Website maintenance
-- Technical troubleshooting
-
-**Skills:**
-
-`WordPress` `PHP` `HTML` `CSS` `JavaScript` `MySQL`
-
----
-
-## AI & Automation Enthusiast
-
-**Date:** Ongoing
-
-Exploring AI technologies, browser automation, workflow systems, and productivity engineering.
-
-### Scope of Work
-
-- AI workflow experimentation
-- Browser automation
-- Productivity tools
-- SEO automation systems
-- Process optimization
-
-**Skills:**
-
-`AI` `Automation` `Python` `Chrome Extensions` `n8n`
-
----
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|------------|---------|
-| SEO Growth | Successfully contributed to improving website authority and search visibility through strategic link-building campaigns. |
-| Web Development | Built and optimized WordPress websites focused on performance and user experience. |
-| Technical SEO | Implemented SEO strategies resulting in improved indexing and organic traffic growth. |
-| Automation | Exploring AI-driven workflows and automation systems for scalable digital operations. |
-| Continuous Learning | Actively learning modern technologies in AI, web engineering, and automation. |
-
-</div>
-
----
-
-# GitHub Profile Highlights
+## GitHub Profile Highlights
 
 <div align="center">
 
@@ -369,200 +80,41 @@ Exploring AI technologies, browser automation, workflow systems, and productivit
 
 </div>
 
----
-
-
-
-
-# GitHub Analytics
+## GitHub Stats & Streak
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubasherdevv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mubasherdevv&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mubasherdevv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mubasherdevv&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 <br/>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubasherdevv&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubasherdevv&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mubasherdevv/mubasherdevv/output/github-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
 ---
 
+## Open To
 
+SEO collaborations · WordPress projects · Link building campaigns · AI & automation projects · Remote opportunities
 
-
-
-# Contribution Activity
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mubasherdevv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=C084FC"/>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:withm345@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubasher-developer-98a5ab37a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mubasherdevv)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4B0082,50:6A0DAD,100:7F00FF" width="100%" />
 
 </div>
-
----
-
-
-
-# Current Focus
-
-```yaml
-Learning:
-  - Artificial Intelligence
-  - Automation Systems
-  - Modern Web Technologies
-  - Advanced SEO Engineering
-
-Building:
-  - SEO Automation Tools
-  - Chrome Extensions
-  - WordPress Solutions
-  - AI Workflows
-
-Exploring:
-  - n8n Automation
-  - Open Source Projects
-  - AI Agents
-  - Developer Tools
-
-Open To:
-  - Remote Opportunities
-  - Freelance Projects
-  - Collaborations
-  - Open Source Contributions
-```
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:withm345@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-withm345%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mubasher-developer-98a5ab37a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mubasher_Developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/mubasherdevv">
-  <img src="https://img.shields.io/badge/GitHub-mubasherdevv-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# Development Philosophy
-
-<div align="center">
-
-> *"Engineering scalable digital solutions through SEO, automation, and modern web technologies."*
-
-</div>
-
----
-
-# Tech Principles
-
-<div align="center">
-
-| Principle | Focus |
-|-----------|-------|
-| Performance First | Build fast, optimized experiences |
-| Scalability | Design systems for growth |
-| Automation | Eliminate repetitive workflows |
-| SEO Engineering | Data-driven search optimization |
-| Continuous Learning | Adapt to emerging technologies |
-| Open Source | Contribute and collaborate |
-
-</div>
-
----
-
-# Daily Workflow
-
-<div align="center">
-
-```text
-Research → Strategy → Development → Optimization → Automation → Growth
-````
-
-</div>
-
----
-
-# Professional Interests
-
-<div align="center">
-
-`Artificial Intelligence`
-`Automation`
-`SEO Engineering`
-`WordPress`
-`Web Development`
-`Open Source`
-`Chrome Extensions`
-`n8n`
-`Developer Tools`
-`Productivity Systems`
-
-</div>
-
----
-
-
-# Open To Collaborate
-
-<div align="center">
-
-| Area                   | Availability |
-| ---------------------- | ------------ |
-| Link Building Projects | ✅ Open       |
-| WordPress Development  | ✅ Open       |
-| SEO Consulting         | ✅ Open       |
-| AI Automation          | ✅ Open       |
-| Open Source            | ✅ Open       |
-| Remote Opportunities   | ✅ Open       |
-
-</div>
-
----
-
-# Profile Roadmap
-
-```yaml
-2026 Goals:
-  - Build advanced SEO automation tools
-  - Launch production-ready Chrome extensions
-  - Expand AI workflow expertise
-  - Contribute more to open source
-  - Strengthen full-stack engineering skills
-  - Create scalable SaaS products
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4B0082,50:6A0DAD,100:7F00FF" width="100%" />
-
-### Mubasher Developer
-
-**Off Page SEO • Web Developer • Automation Enthusiast**
-
-<sub>Building digital growth through engineering, automation, and innovation.</sub>
-
-</div>
-```
