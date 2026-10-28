@@ -30,18 +30,50 @@ Off-Page SEO Specialist aur Web Developer, jo SEO, WordPress development aur aut
 
 ## Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
 
-**SEO Tools:** Ahrefs, SEMrush
+<table>
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,python,theme=dark" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,&theme=dark" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,theme=dark" alt="Backend and Database" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>CMS</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="CMS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,&theme=dark" alt="Tools and DevOps" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>SEO & Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ahrefs-0B3D91?style=for-the-badge" alt="Ahrefs" />
+      <img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge" alt="SEMrush" />
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Experience
 
