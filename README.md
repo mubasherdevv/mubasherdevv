@@ -1,26 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4B0082,50:6A0DAD,100:7F00FF&text=Mubasher%20Developer&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Off-Page%20SEO%20%7C%20Web%20Developer&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4B0082,50:6A0DAD,100:7F00FF&text=Mubasher%20Developer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Off-Page%20SEO%20%7C%20Web%20Developer%20%7C%20Automation&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Off-Page+SEO+Specialist;Web+Developer;Link+Building+Strategist;Building+Digital+Growth+Through+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Off-Page+SEO+Specialist;Full-Stack+Web+Developer;Automation+%26+AI+Workflows;Building+Digital+Growth+Through+Engineering" alt="Typing SVG" />
 
 <br/>
 
-![Location](https://img.shields.io/badge/Lahore,_Pakistan-4338CA?style=flat-square)
-![Focus](https://img.shields.io/badge/SEO_Engineering-6D28D9?style=flat-square)
-![Remote](https://img.shields.io/badge/Open_to_Remote-4F46E5?style=flat-square)
+![Location](https://img.shields.io/badge/Lahore,_Pakistan-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Open_to_Remote-4F46E5?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mubasherdevv?style=for-the-badge&color=7C3AED&label=Followers)
+![Views](https://komarev.com/ghpvc/?username=mubasherdevv&style=for-the-badge&color=6D28D9&label=Profile+Views)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mubasherdevv&style=flat-square&color=6D28D9)
-![Followers](https://img.shields.io/github/followers/mubasherdevv?style=flat-square&color=7C3AED&label=Followers)
-![Stars](https://img.shields.io/github/stars/mubasherdevv?style=flat-square&color=8B5CF6&label=Stars)
-
-</div>
-
----
+<br/>
 
 ## About
 
-Off-Page SEO Specialist aur Web Developer, jo SEO, WordPress development aur automation ko combine karke businesses ki search visibility, authority aur performance improve karta hai. Filhal AI workflows aur SEO automation tools par kaam kar raha hoon.
+Off-Page SEO Specialist and Web Developer who combines SEO, WordPress development, and automation to improve businesses' search visibility, authority, and performance. Currently building AI workflows and SEO automation tools.
 
 ## What I Do
 
