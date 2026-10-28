@@ -72,25 +72,22 @@ Off-Page SEO Specialist and Web Developer who combines SEO, WordPress developmen
 
 </div>
 
-## Experience
-
-| Role | Period |
-|:--|:--:|
-| Off-Page SEO Specialist (Freelance) | 2021 – Present |
-| Web Developer | 2021 – Present |
-
 ## Education
 
-- **DAE, Computer Information Technology**, Malaysian Institute of Technology (2022 – 2025)
-
-## Current Focus
-
-- Building SEO automation tools aur Chrome extensions
-- Exploring n8n automation aur AI agents
-- Learning advanced SEO engineering aur modern web technologies
-
----
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>DAE, Computer Information Technology</h4>
+      <p>Malaysian Institute of Technology</p>
+      <sub><code>2022 – 2025</code> <code>Completed</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Matric, Computer Science</h4>
+      <p>Govt. Farooqi Islamia Boys High School</p>
+      <sub><code>2019 – 2022</code> <code>Completed</code></sub>
+    </td>
+  </tr>
+</table>
 ## GitHub Profile Highlights
 
 <div align="center">
