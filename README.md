@@ -19,9 +19,11 @@ Off-Page SEO Specialist and Web Developer who combines SEO, WordPress developmen
 
 ## What I Do
 
-- **Off-Page SEO:** link building, guest posting, niche edits, outreach, competitor backlink analysis
-- **Web Development:** WordPress, custom landing pages, performance optimization
-- **Automation:** n8n workflows, Chrome extensions, SEO automation tools
+| | Area | Focus |
+|:--:|:--|:--|
+| 🔗 | **Off-Page SEO** | Link building, guest posting, niche edits, outreach, backlink analysis |
+| 💻 | **Web Development** | WordPress, full-stack web apps, landing pages, performance optimization |
+| ⚙️ | **Automation** | n8n workflows, Chrome extensions, SEO tools, AI-assisted workflows |
 
 ## Tech Stack
 
