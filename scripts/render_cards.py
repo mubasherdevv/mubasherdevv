@@ -577,6 +577,129 @@ def techstack_card(theme: str) -> str:
     return "".join(out)
 
 
+# ----------------------------------------------------------- projects cards
+
+STAR = ("M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 "
+        ".416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347"
+        "l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 "
+        "0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z")
+
+PROJECTS = [
+    {
+        "key": "securesite",
+        "repo": "website_builder",
+        "title": "SecureSite Studio - Website Builder",
+        "tag": "Next.js / Supabase",
+        "desc": "Website-builder platform with Next.js, TypeScript, Tailwind CSS, Zod schemas, dynamic page renderer, and Supabase.",
+    },
+    {
+        "key": "snapbite",
+        "repo": "snap-bite",
+        "title": "Snap Bite - AI Calorie Tracker",
+        "tag": "AI / TypeScript",
+        "desc": "AI-powered calorie and nutrition tracking web application built with TypeScript and LLM integrations.",
+    },
+    {
+        "key": "n8n",
+        "repo": "emailautomation",
+        "title": "AI & Workflow Automation",
+        "tag": "n8n / OpenAI & Gemini",
+        "desc": "Automated workflows integrating OpenAI and Gemini APIs, webhooks, email pipelines, and business processes.",
+    },
+    {
+        "key": "whatsapp",
+        "repo": "",
+        "title": "WhatsApp Restaurant Ordering Workflow",
+        "tag": "WhatsApp / Google Sheets",
+        "desc": "Automation concept connecting WhatsApp customer ordering with Google Sheets menu/inventory and interactive options.",
+    },
+    {
+        "key": "leads",
+        "repo": "auto-dm-insta",
+        "title": "Lead Collection & Outreach Workflow",
+        "tag": "n8n / Automation",
+        "desc": "Workflow automation to collect business contact details from websites, automate outreach, and organize results in Sheets.",
+    },
+    {
+        "key": "seo",
+        "repo": "seo-auto-filler",
+        "title": "SEO Auto-Filler & Citation Tool",
+        "tag": "SEO Automation",
+        "desc": "Streamlines off-page SEO form filling, business directory submissions, and citation workflows.",
+    },
+]
+
+PROJ_LAP = SLOT * len(PROJECTS)
+PROJ_TURN = 100 / len(PROJECTS)
+PROJ_ON = f"0%,{PROJ_TURN:.3f}%,100%"
+PROJ_HELD = f"1.5%,{PROJ_TURN - 1.6:.3f}%"
+
+
+def project_card(index: int, proj: dict, theme: str) -> str:
+    FULL_W, FULL_H = 1200, 118
+    W, H = 1200, 108
+    t = THEMES[theme]
+    repo = DATA.get("repos", {}).get(proj["repo"], {})
+    stars = repo.get("stars", 0)
+    lang = repo.get("language") or ""
+
+    arrive = 0.1 + index * 0.08
+    turn = START + index * SLOT
+    lit = STATIC and index == 0
+
+    css = f"""
+@keyframes in{{from{{opacity:0;transform:translateY(14px)}}}}
+@keyframes on{{{PROJ_ON}{{opacity:0}}{PROJ_HELD}{{opacity:1}}}}
+@keyframes work{{0%{{transform:scaleX(0);opacity:1}}{PROJ_TURN - 1.6:.3f}%{{transform:scaleX(1);opacity:1}}{PROJ_TURN:.3f}%,100%{{transform:scaleX(1);opacity:0}}}}
+.in{{animation:in .55s ease {arrive:g}s both}}
+.hl{{animation:on {PROJ_LAP:g}s linear {turn:g}s infinite}}
+.wk{{transform-box:fill-box;transform-origin:left;animation:work {PROJ_LAP:g}s linear {turn:g}s infinite}}
+"""
+    title_w = width(proj["title"], "semi", 21)
+    pill_x = 34 + title_w + 14
+    pill_w = width(proj["tag"], "semi", 12.5) + 20
+
+    out = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {FULL_W} {FULL_H}" '
+        f'width="{FULL_W}" height="{FULL_H}" role="img" aria-label="{escape(proj["title"])}">',
+        style(["semi", "regular"], css),
+        "<defs>"
+        f'<clipPath id="pc"><rect width="{W}" height="{H}" rx="16"/></clipPath>'
+        "</defs>",
+        '<g class="in">',
+        f'<rect width="{W}" height="{H}" rx="16" fill="{t["bg"]}"/>',
+        f'<g clip-path="url(#pc)">'
+        f'<rect class="wk" x="0" y="{H - 3.5}" width="{W}" height="3.5" fill="{t["mark"]}" opacity="0"/>'
+        "</g>",
+        f'<rect class="hl" x="1.5" y="1.5" width="{W - 3}" height="{H - 3}" rx="14.5" '
+        f'fill="none" stroke="{t["mark"]}" stroke-width="2.5" opacity="{1 if lit else 0}"/>',
+        text(34, 44, proj["title"], "semi", 21, t["title"]),
+        f'<rect x="{pill_x:.0f}" y="25" width="{pill_w:.0f}" height="24" rx="12" fill="{t["pill_bg"]}"/>',
+        text(pill_x + 10, 41, proj["tag"], "semi", 12.5, t["pill_fg"]),
+        text(34, 78, proj["desc"], "regular", 16, t["body"]),
+    ]
+
+    rx = 1164.0
+    if stars:
+        s_txt = str(stars)
+        sw = width(s_txt, "semi", 16)
+        rx -= sw
+        out.append(text(rx, 44, s_txt, "semi", 16, t["title"]))
+        rx -= 22
+        out.append(f'<g transform="translate({rx:g} 30) scale(1.02)">'
+                   f'<path fill="{t["mark"]}" d="{STAR}"/></g>')
+        rx -= 22
+    if lang:
+        lw = width(lang, "regular", 15.5)
+        rx -= lw
+        out.append(text(rx, 44, lang, "regular", 15.5, t["body"]))
+        rx -= 16
+        out.append(f'<circle cx="{rx:g}" cy="38.5" r="5.5" fill="{LANG.get(lang, t["body"])}"/>')
+
+    out.append("</g></svg>")
+    return "".join(out)
+
+
 # ------------------------------------------------------- contribution graph
 
 MONTHS = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
@@ -680,6 +803,10 @@ def main() -> None:
         for theme in THEMES:
             (CARDS / f"service-{svc['key']}-{theme}.svg").write_text(
                 service_card(i, svc, theme))
+    for i, proj in enumerate(PROJECTS):
+        for theme in THEMES:
+            (CARDS / f"project-{proj['key']}-{theme}.svg").write_text(
+                project_card(i, proj, theme))
     for f in sorted(CARDS.glob("*.svg")):
         print(f"{f.name:28} {f.stat().st_size / 1024:6.1f} KB")
 
