@@ -15,52 +15,10 @@
 
 ## Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="220"><b>Programming Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,php&theme=dark" alt="JavaScript, TypeScript, Python, HTML, CSS, PHP" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend Technologies</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="React, Next.js, Tailwind CSS, Bootstrap" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend &amp; Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql,mongodb&theme=dark" alt="Node.js, Supabase, MySQL, MongoDB" />
-      <br />
-      <img src="https://img.shields.io/badge/REST_APIs-222C0F?style=flat-square&logo=fastapi&logoColor=CEF12B" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/JSON-222C0F?style=flat-square&logo=json&logoColor=CEF12B" alt="JSON" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI &amp; Automation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI_API-222C0F?style=flat-square&logo=openai&logoColor=CEF12B" alt="OpenAI API" />
-      <img src="https://img.shields.io/badge/Gemini_API-222C0F?style=flat-square&logo=googlegemini&logoColor=CEF12B" alt="Gemini API" />
-      <img src="https://img.shields.io/badge/n8n-222C0F?style=flat-square&logo=n8n&logoColor=CEF12B" alt="n8n" />
-      <img src="https://img.shields.io/badge/Webhooks-222C0F?style=flat-square&logo=webhooks&logoColor=CEF12B" alt="Webhooks" />
-      <img src="https://img.shields.io/badge/Google_Sheets-222C0F?style=flat-square&logo=googlesheets&logoColor=CEF12B" alt="Google Sheets" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>CMS</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" />
-      <img src="https://img.shields.io/badge/Elementor-222C0F?style=flat-square&logo=elementor&logoColor=CEF12B" alt="Elementor" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools &amp; DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Git, GitHub, VS Code, Docker" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./cards/techstack-dark.svg">
+  <img src="./cards/techstack-light.svg" width="100%" alt="Tech Stack: Programming Languages (JavaScript, TypeScript, Python, HTML, CSS, PHP), Frontend (React, Next.js, Tailwind CSS, Bootstrap), Backend and Databases (Node.js, Supabase, MySQL, MongoDB, REST APIs, JSON), AI and Automation (OpenAI API, Gemini API, n8n, Webhooks, Google Sheets), CMS (WordPress, Elementor), Tools and DevOps (Git, GitHub, VS Code, Docker)">
+</picture>
 
 ---
 
@@ -98,9 +56,9 @@
 ## Contact
 
 <p>
-  <a href="https://github.com/mubasherdevv"><img src="https://img.shields.io/badge/GitHub-222C0F?style=for-the-badge&logo=github&logoColor=CEF12B" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/mubasher-developer-98a5ab37a/"><img src="https://img.shields.io/badge/LinkedIn-222C0F?style=for-the-badge&logo=linkedin&logoColor=CEF12B" alt="LinkedIn" /></a>
-  <a href="mailto:withm345@gmail.com"><img src="https://img.shields.io/badge/Email-222C0F?style=for-the-badge&logo=gmail&logoColor=CEF12B" alt="Email" /></a>
+  <a href="https://github.com/mubasherdevv"><img src="https://img.shields.io/badge/GitHub-181715?style=for-the-badge&logo=github&logoColor=F5A623" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mubasher-developer-98a5ab37a/"><img src="https://img.shields.io/badge/LinkedIn-181715?style=for-the-badge&logo=linkedin&logoColor=F5A623" alt="LinkedIn" /></a>
+  <a href="mailto:withm345@gmail.com"><img src="https://img.shields.io/badge/Email-181715?style=for-the-badge&logo=gmail&logoColor=F5A623" alt="Email" /></a>
 </p>
 
 <sub>Profile cards are self-contained SVGs rendered by <a href="./scripts/render_cards.py">render_cards.py</a> and refreshed daily from live GitHub data.</sub>

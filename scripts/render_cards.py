@@ -29,32 +29,32 @@ DATA = json.loads((ROOT / "data" / "github.json").read_text())
 METRICS = json.loads((ROOT / "fonts" / "metrics.json").read_text())
 
 # ---------------------------------------------------------------- the palette
-# Signature dark moss-to-fern ground with crisp lime accents.
+# Matte charcoal ground with warm amber-gold accents matching the avatar logo.
 
-MOSS = "#222C0F"      # dark moss edge
-FERN = "#36470F"      # deep fern green across the sweep
-LIME = "#CEF12B"      # vibrant lime highlight
-INK = "#1A220A"       # dark text on lime
-SOFT = "#D5DEB5"      # secondary text on dark green ground
+OBSIDIAN = "#181715"  # dark charcoal edge
+UMBER = "#292216"     # warm dark bronze across the sweep
+AMBER = "#F5A623"     # vibrant amber-gold highlight
+INK = "#16120B"       # dark text on amber
+SOFT = "#DDD5C7"      # secondary text on charcoal ground
 
 THEMES = {
     "light": {
-        "bg": "#F0F4E1",
-        "panel": "#E4EBCF",
+        "bg": "#F6F3EC",
+        "panel": "#EAE3D5",
         "title": INK,
-        "body": "#55603A",
-        "mark": "#5C7A0C",
-        "pill_bg": "#DCE6BE",
-        "pill_fg": "#36470F",
+        "body": "#5C5242",
+        "mark": "#B4690E",
+        "pill_bg": "#EFE3CC",
+        "pill_fg": "#8A4F08",
     },
     "dark": {
-        "bg": "#1E2710",
-        "panel": "#283415",
-        "title": "#F5F8E8",
-        "body": "#B7C296",
-        "mark": LIME,
-        "pill_bg": "#2E3C16",
-        "pill_fg": LIME,
+        "bg": "#1B1916",
+        "panel": "#26221C",
+        "title": "#F7F4EE",
+        "body": "#BFB5A4",
+        "mark": AMBER,
+        "pill_bg": "#2E261A",
+        "pill_fg": AMBER,
     },
 }
 
@@ -250,12 +250,12 @@ def hero() -> str:
         style(["display", "semi", "regular"], css),
         "<defs>"
         f'<linearGradient id="ground" x1="0" x2="1" y1="0" y2="0.4">'
-        f'<stop offset="0" stop-color="{MOSS}"/><stop offset="1" stop-color="{FERN}"/></linearGradient>'
-        f'<radialGradient id="glow"><stop offset="0" stop-color="{LIME}" stop-opacity=".28"/>'
-        f'<stop offset="1" stop-color="{LIME}" stop-opacity="0"/></radialGradient>'
+        f'<stop offset="0" stop-color="{OBSIDIAN}"/><stop offset="1" stop-color="{UMBER}"/></linearGradient>'
+        f'<radialGradient id="glow"><stop offset="0" stop-color="{AMBER}" stop-opacity=".28"/>'
+        f'<stop offset="1" stop-color="{AMBER}" stop-opacity="0"/></radialGradient>'
         '<linearGradient id="shine" x1="0" x2="1" gradientTransform="translate(-0.75 0)">'
         '<stop offset=".38" stop-color="#fff"/>'
-        f'<stop offset=".5" stop-color="{LIME}"/>'
+        f'<stop offset=".5" stop-color="{AMBER}"/>'
         f'<stop offset=".62" stop-color="#fff"/>{sweep}</linearGradient>'
         f'<clipPath id="card"><rect width="{W}" height="{H}" rx="28"/></clipPath>'
         '<clipPath id="face"><circle cx="110" cy="108" r="46"/></clipPath>'
@@ -265,20 +265,20 @@ def hero() -> str:
         '<g clip-path="url(#card)">'
         '<circle class="glow" cx="1160" cy="40" r="420" fill="url(#glow)"/></g>',
 
-        # Avatar + animated lime ring
-        f'<circle class="pulse" cx="110" cy="108" r="54" fill="none" stroke="{LIME}" stroke-width="2" opacity="0"/>',
+        # Avatar + animated amber ring
+        f'<circle class="pulse" cx="110" cy="108" r="54" fill="none" stroke="{AMBER}" stroke-width="2" opacity="0"/>',
         '<g class="pop">'
         f'<image x="60" y="58" width="100" height="100" clip-path="url(#face)" '
         f'xlink:href="data:{avatar_mime};base64,{avatar}" href="data:{avatar_mime};base64,{avatar}"/>'
         "</g>",
-        f'<circle class="draw" cx="110" cy="108" r="54" fill="none" stroke="{LIME}" '
+        f'<circle class="draw" cx="110" cy="108" r="54" fill="none" stroke="{AMBER}" '
         f'stroke-width="3" stroke-linecap="round" stroke-dasharray="{ring:.0f}" '
         f'transform="rotate(-90 110 108)"/>',
 
         # Username & role header
         '<g class="fade" style="animation-delay:.25s">',
         text(186, 98, "@mubasherdevv", "semi", 23, "#fff"),
-        text(186, 128, "Full-Stack Developer  |  Agentic AI Developer", "semi", 19, LIME),
+        text(186, 128, "Full-Stack Developer  |  Agentic AI Developer", "semi", 19, AMBER),
         text(186, 154, "Lahore, Pakistan", "regular", 16.5, SOFT),
         "</g>",
 
@@ -291,7 +291,7 @@ def hero() -> str:
         '<g class="fade" style="animation-delay:.6s">',
     ]
     for i, line in enumerate(intro):
-        out.append(text(60, 298 + i * 34, line, "regular", 24, "#EDF2DA"))
+        out.append(text(60, 298 + i * 34, line, "regular", 24, "#F5EFE4"))
     out.append("</g></svg>")
     return "".join(out)
 
@@ -489,13 +489,101 @@ def stats_card(theme: str) -> str:
     return "".join(out)
 
 
+# --------------------------------------------------------- 3. tech stack card
+
+TECH_ICONS = {
+    "code": '<path d="M8 7l-5 5 5 5M16 7l5 5-5 5M13 5l-2 14" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>',
+    "web": '<path d="M4 5h16l-1.5 13-6.5 2-6.5-2z" stroke="currentColor" stroke-width="2" fill="none" stroke-linejoin="round"/><path d="M8 10h8M9 14h6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
+    "react": '<circle cx="12" cy="12" r="2.2" fill="currentColor"/><ellipse cx="12" cy="12" rx="9" ry="3.8" stroke="currentColor" stroke-width="1.7" fill="none"/><ellipse cx="12" cy="12" rx="9" ry="3.8" transform="rotate(60 12 12)" stroke="currentColor" stroke-width="1.7" fill="none"/><ellipse cx="12" cy="12" rx="9" ry="3.8" transform="rotate(120 12 12)" stroke="currentColor" stroke-width="1.7" fill="none"/>',
+    "next": '<circle cx="12" cy="12" r="8.5" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M9 16V8l7 9V8" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>',
+    "style": '<path d="M3 13c1.5-3 3.5-4 5.5-2.5 2 1.5 3.5 1 4.5-1.5 1.5-2.5 3.5-3 5.5-1.5" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/><path d="M5 17c1.5-3 3.5-4 5.5-2.5 2 1.5 3.5 1 4.5-1.5 1.5-2.5 3.5-3 5.5-1.5" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>',
+    "node": '<polygon points="12,3 20,7.5 20,16.5 12,21 4,16.5 4,7.5" stroke="currentColor" stroke-width="1.9" fill="none" stroke-linejoin="round"/><circle cx="12" cy="12" r="2.2" fill="currentColor"/>',
+    "bolt": '<polygon points="13,2 5,13 11,13 10,22 19,10 13,10" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linejoin="round"/>',
+    "db": '<ellipse cx="12" cy="6" rx="7" ry="2.8" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M5 6v12c0 1.6 3.1 2.8 7 2.8s7-1.2 7-2.8V6" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M5 12c0 1.6 3.1 2.8 7 2.8s7-1.2 7-2.8" stroke="currentColor" stroke-width="1.8" fill="none"/>',
+    "api": '<path d="M9 7H6a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h3M15 7h3a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2h-3M9 12h6" stroke="currentColor" stroke-width="1.9" fill="none" stroke-linecap="round"/>',
+    "ai": '<path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linejoin="round"/><circle cx="18.5" cy="5.5" r="1.3" fill="currentColor"/>',
+    "flow": '<circle cx="5.5" cy="12" r="2.3" stroke="currentColor" stroke-width="1.8" fill="none"/><circle cx="18.5" cy="7" r="2.3" stroke="currentColor" stroke-width="1.8" fill="none"/><circle cx="18.5" cy="17" r="2.3" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M8 12h4l4-4M12 12l4 4" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"/>',
+    "sheet": '<rect x="4" y="4" width="16" height="16" rx="2.5" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M4 10h16M4 15h16M10 4v16" stroke="currentColor" stroke-width="1.7"/>',
+    "cms": '<circle cx="12" cy="12" r="8.5" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M7 9l2.5 7 2.5-6 2.5 6L17 9" stroke="currentColor" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>',
+    "layout": '<rect x="4" y="4" width="16" height="16" rx="2.5" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M8 8h8M8 12h5M8 16h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>',
+    "git": '<circle cx="6.5" cy="6.5" r="2.2" stroke="currentColor" stroke-width="1.8" fill="none"/><circle cx="6.5" cy="17.5" r="2.2" stroke="currentColor" stroke-width="1.8" fill="none"/><circle cx="17.5" cy="9.5" r="2.2" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M6.5 8.7v6.6M6.5 14c0-3 11-1 11-2.3" stroke="currentColor" stroke-width="1.8" fill="none"/>',
+    "box": '<rect x="3" y="11" width="18" height="7" rx="2" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M7 11V7h4v4M11 7h4v4M7 7V4" stroke="currentColor" stroke-width="1.7" fill="none" stroke-linejoin="round"/>',
+}
+
+TECH_STACK = [
+    ("Programming Languages", [
+        ("JavaScript", "code"), ("TypeScript", "code"), ("Python", "code"),
+        ("HTML", "web"), ("CSS", "style"), ("PHP", "code"),
+    ]),
+    ("Frontend Technologies", [
+        ("React", "react"), ("Next.js", "next"),
+        ("Tailwind CSS", "style"), ("Bootstrap", "layout"),
+    ]),
+    ("Backend & Databases", [
+        ("Node.js", "node"), ("Supabase", "bolt"), ("MySQL", "db"),
+        ("MongoDB", "db"), ("REST APIs", "api"), ("JSON", "code"),
+    ]),
+    ("AI & Automation", [
+        ("OpenAI API", "ai"), ("Gemini API", "ai"), ("n8n", "flow"),
+        ("Webhooks", "api"), ("Google Sheets", "sheet"),
+    ]),
+    ("CMS", [
+        ("WordPress", "cms"), ("Elementor", "layout"),
+    ]),
+    ("Tools & DevOps", [
+        ("Git", "git"), ("GitHub", "git"), ("VS Code", "code"), ("Docker", "box"),
+    ]),
+]
+
+
+def techstack_card(theme: str) -> str:
+    W, row_h = 1200, 58
+    H = 44 + len(TECH_STACK) * row_h + 16
+    t = THEMES[theme]
+
+    css = """
+@keyframes fade{from{opacity:0;transform:translateY(8px)}}
+.ts{animation:fade .55s ease both}
+"""
+    out = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" '
+        f'width="{W}" height="{H}" role="img" aria-label="Technical stack and tools">',
+        style(["semi", "regular"], css),
+        f'<rect width="{W}" height="{H}" rx="20" fill="{t["bg"]}"/>',
+    ]
+
+    for idx, (category, items) in enumerate(TECH_STACK):
+        ry = 34 + idx * row_h
+        if idx > 0:
+            out.append(f'<line x1="36" y1="{ry - 10}" x2="{W - 36}" y2="{ry - 10}" stroke="{t["panel"]}" stroke-width="1.5"/>')
+        out.append(f'<g class="ts" style="animation-delay:{0.08 + idx * 0.08:.2f}s">')
+        out.append(text(40, ry + 25, category, "semi", 16.5, t["title"]))
+
+        px = 296.0
+        for label, icon_key in items:
+            lw = width(label, "semi", 14.5)
+            pw = 12 + 16 + 8 + lw + 14
+            out.append(
+                f'<rect x="{px:.1f}" y="{ry + 2}" width="{pw:.1f}" height="34" '
+                f'rx="10" fill="{t["panel"]}"/>')
+            out.append(
+                f'<svg x="{px + 11:.1f}" y="{ry + 11}" width="16" height="16" '
+                f'viewBox="0 0 24 24" color="{t["mark"]}">{TECH_ICONS[icon_key]}</svg>')
+            out.append(text(px + 34, ry + 24, label, "semi", 14.5, t["title"]))
+            px += pw + 10
+        out.append("</g>")
+
+    out.append("</svg>")
+    return "".join(out)
+
+
 # ------------------------------------------------------- contribution graph
 
 MONTHS = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
 
 LEVELS = {
-    "light": ["#DCE4C2", "#B9D36A", "#93B92E", "#6A8F12", "#435C08"],
-    "dark": ["#2B361A", "#4E6A14", "#7EA51A", "#A9D021", LIME],
+    "light": ["#E6E0D3", "#F6D59B", "#EEB14F", "#D98218", "#9C5409"],
+    "dark": ["#2A2620", "#5C3D12", "#8F5F14", "#C8841B", AMBER],
 }
 
 
@@ -584,6 +672,7 @@ def main() -> None:
     CARDS.mkdir(exist_ok=True)
     (CARDS / "hero.svg").write_text(hero())
     for theme in THEMES:
+        (CARDS / f"techstack-{theme}.svg").write_text(techstack_card(theme))
         (CARDS / f"education-{theme}.svg").write_text(education_card(theme))
         (CARDS / f"stats-{theme}.svg").write_text(stats_card(theme))
         (CARDS / f"graph-{theme}.svg").write_text(graph(theme))
