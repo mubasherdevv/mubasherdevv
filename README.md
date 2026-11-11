@@ -13,19 +13,6 @@
 
 ---
 
-## Projects
-
-<p>
-  <a href="https://github.com/mubasherdevv/website_builder"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-securesite-dark.svg"><img src="./cards/project-securesite-light.svg" width="100%" alt="SecureSite Studio - Website Builder"></picture></a>
-  <a href="https://github.com/mubasherdevv/snap-bite"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-snapbite-dark.svg"><img src="./cards/project-snapbite-light.svg" width="100%" alt="Snap Bite - AI Calorie Tracker"></picture></a>
-  <a href="https://github.com/mubasherdevv/emailautomation"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-n8n-dark.svg"><img src="./cards/project-n8n-light.svg" width="100%" alt="AI & Workflow Automation"></picture></a>
-  <a href="https://github.com/mubasherdevv?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-whatsapp-dark.svg"><img src="./cards/project-whatsapp-light.svg" width="100%" alt="WhatsApp Restaurant Ordering Workflow"></picture></a>
-  <a href="https://github.com/mubasherdevv/auto-dm-insta"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-leads-dark.svg"><img src="./cards/project-leads-light.svg" width="100%" alt="Lead Collection & Outreach Workflow"></picture></a>
-  <a href="https://github.com/mubasherdevv/seo-auto-filler"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-seo-dark.svg"><img src="./cards/project-seo-light.svg" width="100%" alt="SEO Auto-Filler & Citation Tool"></picture></a>
-</p>
-
----
-
 ## Tech Stack
 
 <picture>
@@ -41,6 +28,19 @@
   <source media="(prefers-color-scheme: dark)" srcset="./cards/education-dark.svg">
   <img src="./cards/education-light.svg" width="100%" alt="Education: DAE in Computer Information Technology (Malaysian Institute of Technology, 2022 - 2025) and Matric in Computer Science (Govt. Farooqi Islamia Boys High School, 2019 - 2022)">
 </picture>
+
+---
+
+## Projects
+
+<p>
+  <a href="https://github.com/mubasherdevv/website_builder"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-securesite-dark.svg"><img src="./cards/project-securesite-light.svg" width="100%" alt="SecureSite Studio - Website Builder"></picture></a>
+  <a href="https://github.com/mubasherdevv/snap-bite"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-snapbite-dark.svg"><img src="./cards/project-snapbite-light.svg" width="100%" alt="Snap Bite - AI Calorie Tracker"></picture></a>
+  <a href="https://github.com/mubasherdevv/emailautomation"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-n8n-dark.svg"><img src="./cards/project-n8n-light.svg" width="100%" alt="AI & Workflow Automation"></picture></a>
+  <a href="https://github.com/mubasherdevv?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-whatsapp-dark.svg"><img src="./cards/project-whatsapp-light.svg" width="100%" alt="WhatsApp Restaurant Ordering Workflow"></picture></a>
+  <a href="https://github.com/mubasherdevv/auto-dm-insta"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-leads-dark.svg"><img src="./cards/project-leads-light.svg" width="100%" alt="Lead Collection & Outreach Workflow"></picture></a>
+  <a href="https://github.com/mubasherdevv/seo-auto-filler"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-seo-dark.svg"><img src="./cards/project-seo-light.svg" width="100%" alt="SEO Auto-Filler & Citation Tool"></picture></a>
+</p>
 
 ---
 
