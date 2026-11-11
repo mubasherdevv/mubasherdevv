@@ -1,0 +1,70 @@
+{
+  "public_repos": 40,
+  "repos": {
+    "3D-PORTFOLIO": {
+      "language": "JavaScript",
+      "stars": 0
+    },
+    "3d-portfolio-website": {
+      "language": "JavaScript",
+      "stars": 0
+    },
+    "amazon-clone-project": {
+      "language": "TypeScript",
+      "stars": 0
+    },
+    "auto-dm-insta": {
+      "language": "TypeScript",
+      "stars": 0
+    },
+    "daily-project-updates": {
+      "language": null,
+      "stars": 0
+    },
+    "ecommerce-fullstack-store": {
+      "language": "JavaScript",
+      "stars": 1
+    },
+    "emailautomation": {
+      "language": "TypeScript",
+      "stars": 0
+    },
+    "mubasherdevv": {
+      "language": null,
+      "stars": 1
+    },
+    "muhammadmubasher": {
+      "language": "TypeScript",
+      "stars": 0
+    },
+    "nexus_project": {
+      "language": "TypeScript",
+      "stars": 0
+    },
+    "seo-auto-filler": {
+      "language": null,
+      "stars": 1
+    },
+    "seooffpage_porfolio": {
+      "language": "TypeScript",
+      "stars": 0
+    },
+    "snap-bite": {
+      "language": "TypeScript",
+      "stars": 1
+    },
+    "titangrowthhub-old": {
+      "language": "CSS",
+      "stars": 0
+    },
+    "website": {
+      "language": "TypeScript",
+      "stars": 0
+    },
+    "website_builder": {
+      "language": "TypeScript",
+      "stars": 0
+    }
+  },
+  "total_stars": 4
+}
