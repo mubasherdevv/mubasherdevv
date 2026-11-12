@@ -26,7 +26,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cards/education-dark.svg">
-  <img src="./cards/education-light.svg" width="100%" alt="Education: DAE in Computer Information Technology (Malaysian Institute of Technology, 2022 - 2025) and Matric in Computer Science (Govt. Farooqi Islamia Boys High School, 2019 - 2022)">
+  <img src="./cards/education-light.svg" width="100%" alt="Education: DAE ( Diploma Associate Enginner ) in Computer Information Technology (Malaysian Institute of Technology, 2022 - 2025) and Matric in Computer Science (Govt. Farooqi Islamia Boys High School, 2019 - 2022)">
 </picture>
 
 ---
