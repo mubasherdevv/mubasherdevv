@@ -1,5 +1,5 @@
 {
-  "public_repos": 40,
+  "public_repos": 39,
   "repos": {
     "3D-PORTFOLIO": {
       "language": "JavaScript",
@@ -58,10 +58,6 @@
       "stars": 0
     },
     "website": {
-      "language": "TypeScript",
-      "stars": 0
-    },
-    "website_builder": {
       "language": "TypeScript",
       "stars": 0
     }
