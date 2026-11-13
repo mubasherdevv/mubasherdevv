@@ -1,5 +1,5 @@
 {
-  "public_repos": 39,
+  "public_repos": 40,
   "repos": {
     "3D-PORTFOLIO": {
       "language": "JavaScript",
@@ -27,6 +27,10 @@
     },
     "emailautomation": {
       "language": "TypeScript",
+      "stars": 0
+    },
+    "motionsites-prompts": {
+      "language": "Python",
       "stars": 0
     },
     "mubasherdevv": {
