@@ -1,5 +1,5 @@
 {
-  "public_repos": 40,
+  "public_repos": 41,
   "repos": {
     "3D-PORTFOLIO": {
       "language": "JavaScript",
@@ -31,6 +31,10 @@
     },
     "motionsites-prompts": {
       "language": "Python",
+      "stars": 0
+    },
+    "mubasher-portfolio": {
+      "language": "TypeScript",
       "stars": 0
     },
     "mubasherdevv": {
