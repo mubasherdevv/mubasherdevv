@@ -1,5 +1,5 @@
 {
-  "public_repos": 41,
+  "public_repos": 42,
   "repos": {
     "3D-PORTFOLIO": {
       "language": "JavaScript",
@@ -7,6 +7,10 @@
     },
     "3d-portfolio-website": {
       "language": "JavaScript",
+      "stars": 0
+    },
+    "agency": {
+      "language": "TypeScript",
       "stars": 0
     },
     "amazon-clone-project": {
