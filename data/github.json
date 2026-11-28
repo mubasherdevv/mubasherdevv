@@ -1,5 +1,5 @@
 {
-  "public_repos": 42,
+  "public_repos": 43,
   "repos": {
     "3D-PORTFOLIO": {
       "language": "JavaScript",
@@ -51,6 +51,10 @@
     },
     "nexus_project": {
       "language": "TypeScript",
+      "stars": 0
+    },
+    "pratice": {
+      "language": "HTML",
       "stars": 0
     },
     "seo-auto-filler": {
